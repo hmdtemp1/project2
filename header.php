@@ -22,6 +22,8 @@ if(isset($userData)){
 		  <div class="container">
 			<nav class="master-nav">
 			  <a class="master-nav-item" href="#">Home</a>
+			  <a class="master-nav-item" href="#">Students</a>
+			  <a class="master-nav-item" href="ac_manage.php">Accounts</a>
 		
 			 
 			  
